@@ -1,3 +1,3 @@
 var func1 = function() {
-    console.log('test2');
+    console.log('test3');
 };
